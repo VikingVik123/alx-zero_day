@@ -1,4 +1,4 @@
 touch 
 echo
 cat
-
+git add --all
