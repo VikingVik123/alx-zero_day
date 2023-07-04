@@ -1,4 +1,1 @@
-touch 
-echo
-cat
-git add --all
+git pull
